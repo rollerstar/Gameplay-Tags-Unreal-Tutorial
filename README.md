@@ -1,2 +1,3 @@
 # Gameplay-Tags-Unreal-Tutorial
- Project file for a YouTube tutorial covering the basics of Unreal Gameplay Tags
+ This is the project file for you YouTube tutorial where I demonstrate how to use Gameplay Tags in Unreal Engine blueprints
+ The full video can be found [here](https://youtu.be/zUqMEaqDDfg)
